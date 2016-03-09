@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 whatsup
+=======
+Nix
+>>>>>>> origin/Branch
