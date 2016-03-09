@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x  4 torrilhon  admin  136  9 Mär 11:07 .
+drwxr-xr-x  8 torrilhon  admin  272  9 Mär 11:00 ..
+-rw-r--r--  1 torrilhon  admin    0  9 Mär 11:07 contents.txt
+-rw-r--r--  1 torrilhon  admin    8  9 Mär 11:06 file.txt
