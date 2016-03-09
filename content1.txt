@@ -1,0 +1,8 @@
+total 88
+drwxr-xr-x   7 torrilhon  admin    238  9 Mär 10:58 .
+drwxr-xr-x   5 torrilhon  admin    170  9 Mär 10:57 ..
+drwxr-xr-x  13 torrilhon  admin    442  9 Mär 10:57 .git
+-rw-r--r--   1 torrilhon  admin    242  9 Mär 10:57 .gitignore
+-rw-r--r--   1 torrilhon  admin  35141  9 Mär 10:57 LICENSE
+-rw-r--r--   1 torrilhon  admin      6  9 Mär 10:57 README.md
+-rw-r--r--   1 torrilhon  admin      0  9 Mär 10:58 content1.txt
